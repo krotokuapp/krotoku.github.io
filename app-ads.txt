@@ -1,0 +1,2 @@
+# Google AdMob (тот же аккаунт AdMob, что у Porog; сверить с AdMob → Apps → app-ads.txt)
+google.com, pub-1345034577671284, DIRECT, f08c47fec0942fa0
