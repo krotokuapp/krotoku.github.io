@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://krotokuapp.github.io/sitemap.xml
